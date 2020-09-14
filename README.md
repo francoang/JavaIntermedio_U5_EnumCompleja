@@ -7,7 +7,7 @@ _Este proyecto contiene el ejemplo demostrado en clase sobre las enumeraciones c
 * Ejemplo que contenga campos, métodos y constructores privados
 
 ## ¿Cómo descargar el proyecto? 🔧
-1. _Arriba a la derecha aparecerá un botón verde llamado "Clone or download"_
+1. _Arriba a la derecha aparecerá un botón verde llamado "Code"_
 
 2. _Hacer clic y seleccionar la opción "Download ZIP"_
 
